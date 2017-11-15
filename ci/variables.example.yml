@@ -1,7 +1,7 @@
-cf-api-url: https://YOUR_CF_URL
-cf-username: YOUR_CF_USERNAME
+cf-api-url: https://api.sys.longs.pal.pivotal.io
+cf-username: Thota
 cf-password: YOUR_CF_PASSWORD
-cf-org: YOUR_DEPLOY_CF_ORG
+cf-org: ashwin-pal
 aws-access-key-id: YOUR_ACCESS_KEY
 aws-secret-access-key: YOUR_SECRET_KEY
 aws-bucket: YOUR_AWS_S3_BUCKET
